@@ -14,7 +14,7 @@ Legendary Dragon Quest is an interactive role-playing game (RPG) built with HTML
 
 #### Installation:
 To run the game locally:
-1. Clone the repository: `git clone https://github.com/your_username/LegendaryDragonQuest.git`
+1. Clone the repository: `git clone https://github.com/Asma-ulhusna/LegendaryDragonQuest.git`
 2. Open `index.html` in your web browser.
 
 #### Usage:
