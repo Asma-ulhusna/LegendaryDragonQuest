@@ -22,7 +22,7 @@ Navigate through the game using interactive buttons to make decisions. Manage re
 
 #### Output:
 ![Gameplay Screenshot](bg.jpeg)
-![image](https://github.com/Asma-ulhusna/LegendaryDragonQuest/assets/95922487/3921d2fe-d904-4155-9158-d747e2dca353)
+![image](https://github.com/Asma-ulhusna/LegendaryDragonQuest/assets/95922487/e78966ac-f16d-4033-93ba-1fedc84f2693)
 
 (A screenshot showing the gameplay interface)
 
